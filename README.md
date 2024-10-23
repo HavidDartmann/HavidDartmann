@@ -7,7 +7,7 @@ I'm a passionate **[Your Profession - e.g., Software Developer, Data Scientist, 
 ### 🚀 **About Me**
 
 - 🔭 **Currently working on:** expanding my Tech Stack
-- 🌱 **Currently learning:** !(https://img.shields.io/badge/-C-%2300ff00?style=for-the-badge&logo=c&logoColor=white)
+- 🌱 **Currently learning:** ![C](https://img.shields.io/badge/-C-%2300ff00?style=for-the-badge&logo=c&logoColor=white)
 - 🧠 **Skills & Expertise:**  
   ![Languages](https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20C%2B%2B%2C%20Java-blue)  
   ![Frameworks](https://img.shields.io/badge/Frameworks-React%2C%20Node.js%2C%20Django%2C%20Spring-green)  
