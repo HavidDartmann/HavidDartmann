@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ### 🚀 **About Me**
 
 - 🔭 **Currently working on:** expanding my Tech Stack
-- 🌱 **Currently learning:** [C](https://img.shields.io/badge/C-00ff00.svg?style=flat&logo=c&logoColor=white)
+- 🌱 **Currently learning:** ![C](https://img.shields.io/badge/C-00ff00.svg?style=flat&logo=c&logoColor=white) 
 - 🧠 **Skills & Expertise:**  
   ![Languages](https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20C%2B%2B%2C%20Java-blue)  
   ![Frameworks](https://img.shields.io/badge/Frameworks-React%2C%20Node.js%2C%20Django%2C%20Spring-green)  
@@ -21,7 +21,6 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/C-00ff00.svg?style=flat&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
