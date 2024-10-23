@@ -73,7 +73,7 @@ I'm a passionate **Web Developer** with a love for building scalable application
 
 ### 🔗 **Connect with me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-hartmann-973082335)
+[![LinkedIn](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white)](www.linkedin.com/in/david-hartmann-973082335)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dvd_hrtmnn)
 
 ---
