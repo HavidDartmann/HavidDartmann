@@ -1,19 +1,6 @@
 # 👋 Hi, I'm David!
 
-I'm a passionate **Software Developer** with a love for building scalable applications, solving complex problems and exploring new tech. My goal is to leverage technology to create impactful solutions.
-
----
-
-### 🚀 **About Me**
-
-- 🔭 **Currently working on:** expanding my Tech Stack
-- 🌱 **Currently learning:** ![C](https://img.shields.io/badge/C-00ff00.svg?style=flat&logo=c&logoColor=white) 
-- 🧠 **Skills & Expertise:**  
-  ![Languages](https://img.shields.io/badge/Languages-JavaScript%2C%20Python%2C%20C%2B%2B%2C%20Java-blue)  
-  ![Frameworks](https://img.shields.io/badge/Frameworks-React%2C%20Node.js%2C%20Django%2C%20Spring-green)  
-  ![Databases](https://img.shields.io/badge/Databases-MySQL%2C%20PostgreSQL%2C%20MongoDB-orange)
-- 📫 **How to reach me:** [Your email or LinkedIn URL]
-- ⚡ **Fun fact:** [A quirky or interesting fact about yourself]
+I'm a passionate **Web Developer** with a love for building scalable applications, solving complex problems and exploring new tech. My goal is to leverage technology to create impactful solutions.
 
 ---
 
@@ -77,7 +64,6 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-
 ---
 
 ### 📈 **GitHub Stats**
@@ -87,26 +73,13 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 ### 🔗 **Connect with me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yourportfolio.com)
-
----
-
-### 💡 **Highlighted Projects**
-
-- **[Project 1 Name](https://github.com/YourGitHubUsername/Project1)**  
-  A brief description of your project, what problem it solves, and the technology stack used.
-
-- **[Project 2 Name](https://github.com/YourGitHubUsername/Project2)**  
-  Another project description focusing on its purpose and challenges.
-
-Check out [my repositories](https://github.com/YourGitHubUsername?tab=repositories) for more!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-hartmann-973082335)
+![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dvd_hrtmnn/)
 
 ---
 
 ### 🌟 **Personal Motto:**
-> _"Insert an inspirational quote or mantra that drives your work ethic!"_
+> _"The show must go on!"_
 
 
 
