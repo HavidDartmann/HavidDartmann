@@ -62,7 +62,7 @@ I'm a passionate **Web Developer** with a love for building scalable application
 ---
 
 ### 📈 **GitHub Stats**
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=HavidDartmann&show_icons=true&theme=radical)](https://github.com/HavidDartmann)
 
 ---
 
