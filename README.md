@@ -21,14 +21,10 @@ I'm a passionate **Web Developer** with a love for building scalable application
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
@@ -42,7 +38,6 @@ I'm a passionate **Web Developer** with a love for building scalable application
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
@@ -67,7 +62,7 @@ I'm a passionate **Web Developer** with a love for building scalable application
 ---
 
 ### 📈 **GitHub Stats**
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
 ---
 
@@ -75,6 +70,7 @@ I'm a passionate **Web Developer** with a love for building scalable application
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haviddartmann/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dvd_hrtmnn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=aboutdotme&logoColor=white)](https://skys.dev/)
 
 ---
 
