@@ -75,7 +75,7 @@ I'm a passionate **Web Developer** with a love for building scalable application
 ---
 
 ### 🌟 **Personal Motto:**
-> _"The show must go on!"_
+> _"Do what u can't"_
 
 
 
